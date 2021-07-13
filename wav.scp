@@ -1,0 +1,2 @@
+sp1.2-speaker_0000000001-utt_0000000006 sox -t wav /home/toan/workspace/kaldi_project/audio_16k_1channel/news-reading-demo1k-0017-tus-angiang-2000-nam-news-reading.wav -t wav - speed 1.2 |
+sp1.2-speaker_0000000001-utt_0000000010 sox -t wav /home/toan/workspace/kaldi_project/audio_16k_1channel/news-reading-demo1k-0014-tus-angiang-2000-nam-news-reading.wav -t wav - speed 1.2 |
